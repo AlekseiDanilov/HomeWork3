@@ -1,0 +1,12 @@
+﻿p  {
+  font-style: oblique;
+  color: blue;
+  font-size: 2em;
+}
+div {
+  text-align: center;
+  width: 800px; 
+  padding: 10px;
+  margin: auto;
+  background: #fc0;
+}
