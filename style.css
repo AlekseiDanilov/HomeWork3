@@ -1,0 +1,12 @@
+p  {
+  font-style: italic;
+  color: blue;
+  font-size: 5em;
+}
+div {
+  text-align: center;
+  width: 800px; 
+  padding: 10px;
+  margin: auto;
+  background: #fc0;
+}
